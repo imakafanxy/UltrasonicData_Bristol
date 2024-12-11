@@ -79,11 +79,6 @@ The data was generated using a transient ultrasonic guided wave propagation mode
 
 ---
 
-## How to Cite
-
-If you use this dataset in your research, please cite the following paper:
-
-
 
 
 Ultrasound Signal Generator: A 6-cycle Hanning-windowed sinusoidal waveform centered at 100 kHz was used to excite the beam in the vertical direction at one end.
