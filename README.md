@@ -73,7 +73,7 @@ The data was generated using a transient ultrasonic guided wave propagation mode
   - Sensor: Positioned 0.2m from the excitation point, measuring for 720μs.
   - Mode: First antisymmetric mode (A0).
 - **Composite Structure**:
-  - Cross-ply carbon fibre beam with [0_{2}/90]_s stacking sequence.
+  - Cross-ply carbon fibre beam with [0₂/90]s stacking sequence.
   - Dimensions: 1m × 3mm × 2mm.
   - Delamination: 5mm long, located at L mm from the excitation point.
 
