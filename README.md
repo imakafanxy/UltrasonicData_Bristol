@@ -83,3 +83,16 @@ The data was generated using a transient ultrasonic guided wave propagation mode
 
 If you use this dataset in your research, please cite the following paper:
 
+
+
+
+Ultrasound Signal Generator: A 6-cycle Hanning-windowed sinusoidal waveform centered at 100 kHz was used to excite the beam in the vertical direction at one end.
+
+Sensor Location and Measurement Time: A sensor was positioned 0.2 m away from the excitation point, and data was collected for a duration of 720 μs.
+
+Wave Mode: The first antisymmetric mode (A0) was excited.
+
+Composite Beam Specifications: A cross-ply carbon fiber composite beam with dimensions of 1 m × 3 mm × 2 mm was utilized, with a stacking sequence of [0₂/90]ₛ.
+
+Damage Modeling: Delamination damage, measuring 5 mm in length, was modeled at a specific location (L mm) within the beam.
+
